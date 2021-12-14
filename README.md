@@ -8,7 +8,7 @@ to english.The objective of this project is to create a simple shell using c.
 <br>
 <br>
 <img src='https://github.com/zjamali/minishell-42cursus/blob/main/src/final_60c4dba80b27fc007b882d1d_636236.gif'/>
-##  The Project splited to two parts :
+##  The Project consist of two parts :
 **Parsing**
 
         1. readline
@@ -20,7 +20,6 @@ to english.The objective of this project is to create a simple shell using c.
         7. The separations
         8. history
 **The execution**
-
 
         1. Redirects
         2. Env, export, unset
